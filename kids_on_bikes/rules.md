@@ -27,7 +27,50 @@
 |Teen|Teens automatically receive `Rebellious`. They add +1 to both `Flight` and `Brawn` checks.|
 |Adult|Adults receive the `Skilled at ___`, which corresponds to their (legal or illegal) profession. They add +1 to `Brains` and `Grit` checks.|
 
+### Tropes
+||||
+|-|-|-|
+|Blue-Collor Worker|Funny Sidekick|Popular Kid|Young Provider|
+|Brilliant Mathlete|Laid-Back Slacker|Reclusive Eccentric||
+|Brutish Jock|Loner Weirdo|Scout||
+|Bully|Overprotective Parent|Stoic Professional||
+|Conspiracy Theorist|Plastic Beauty|Wannabe||
+
 ### Strengths & flaws
+|strength|description|
+|--------|-----------|
+|Cool Under Pressure|May spend 1 Adversity Token to take half of your die's value instead of rolling a Snap Decision.|
+|Easygoing|Gain 2 Adversity Tokens when you fail, instead of 1.|
+|Gross|You have some kind of gross bodily trick (loud, quiet, smelly,... up to you) that you can do on command|
+|Heroric|You do not need the GM's permissiont o spend Adversity Tokens to ignore fears.|
+|Intuitive|iMay spend 1 Adversity Token to ask the GM about your surroundings, an NPC, or the like. THe GM must answer honestly.|
+|Loyal|Each of the Adversity Tokens you spend to help your friends gives them a +2 instead of a +1.|
+|Lucky|May spend 2 Adversity Tokens to reroll a stat check.|
+|Prepared|May spend 2 Adversity Tokens to just happen to have one commonplace item with you (GM's discretion)|
+|Protective|Add +3 to rolls when defending one of your friends.|
+|Quick Healing (free for children and available only to teens)|You recover from injuries more quickly, and don't suffer lasting effects from most injuries.|
+|Rebellious (free for and available only to teens)|Add +3 to rolls when persuading or resisting persuasion from children. Add +3 to rolls when resisting persuasion from adults.|
+|Skilled at __ (free for adults; available to teens and, at GM's discretion, to children)|Choose a skill (GM's discretion). You are assumed to succeed when making even moderately difficult checks (9 or less) involving this skill. If the GM determines that you do need to roll for a more difficult check, add up to +3 to your roll.|
+|Tough|If you lose a combat roll, add +3 to the negative number. You still lose the roll no matter what, but could reduce your loss to -1.|
+|Treasure Hunter|May spend 1 Adversity Token to not be seen, within reason (GM's discretion).|
+|Unassuming|May spend 2 Adversity Tokens to not be seen, within reason (GM's discretion).|
+|Wealthy|May spend money as though you were in a higher age bracket. For example, a wealthy child is considered to have the disposable income of a typical teen, and a wealthy teen is considered to have the disposable income of a typical adult. A wealthy adult is considered to not have to worry too much about money--they would certainly be abole to buy anything they need, and likely able to spend their way out of a lot of situations.|
+
+|flaws| |||
+|-----|-|-|-|
+|Absent-Minded|Flippant|Petty|Superstitious|
+|Blunt|Gloomy|Greedy|Picky|Vain|
+|Boastful|Hot-Tempered|Prejudiced|Vindictive|
+|Clumsy|Ignorant|Prim||
+|Conceited|Inconsiderate|Reckless||
+|Cowardly|Insecure|Resentful||
+|Deceitful|Irrational|Restless||
+|Demanding|Neurotic|Rude||
+|Disloyal|Obnoxious|Secretive||
+|Disobedient|Paranoid|Self-Centered||
+|Dogmatic|Patronizing|Self-Pitying||
+|Envious|Perverse|Slovenly||
+
 ### Motivation & fear
 ### Backpack
 ### Trope specific questions
