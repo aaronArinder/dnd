@@ -1,5 +1,5 @@
 # Kids on Bikes
-## Collaboriate world-building
+## Collaborative world-building
 ## Character creation and explanation
 ### Stats & die
 |stats|explanation|
@@ -71,13 +71,14 @@
 |Dogmatic|Patronizing|Self-Pitying||
 |Envious|Perverse|Slovenly||
 
-### Motivation & fear
-### Backpack
-### Trope specific questions
-## Mechanics
-### Planned actions
-### Snap actions
-### Difficulty checks
-### Failures and adversity tokens
+#### Motivation & fear
+#### Backpack
+#### Trope specific questions
+### Mechanics
+#### Planned actions
+#### Snap actions
+#### Difficulty checks
+#### Adversity tokens
+Failed rolls give 1 adversity token. You may spend adversity tokens either on any ability that requires tokens, or on ability checks. Spending adversity tokens on ability checks adds 1 point per token, and you may spend your tokens on others' ability rolls.
 ### Combat
 
