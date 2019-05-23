@@ -1,4 +1,3 @@
-
 Town name: Sunnyville
 
 State: East Coast: Massachusetts
