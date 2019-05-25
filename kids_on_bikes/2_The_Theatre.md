@@ -8,5 +8,7 @@ During this, Alphonso stole some makeup. Some fancy foundation.
 
 Thomas came over after a natural break in the rehearsal. They looked at the door, realized it was only lock-picked, and Thomas, unbothered and supremely bothered, stepped outside to smoke a cigarette. They asked him who he was, where he was wrong, and what was going on in the building. He's a professor at the local _college_, that he taught at the _University_ for several years prior (but these modern rules about how professors relate to their students forced him out), and that he's currently teaching at the local _college_. Theatre. He told them someone granted quite a hefty sum to the _college_ to put on a play about Billingsworth. That's why he's leading rehearsal in this dusty, cramped shop, with these musty, cramped people.
 
+Aslphonso, Brad, and Rog left to go home (it was getting on toward evening). They split up, with Brad walking Rog home. As they passed the alleyway behind the shop, they say the pale yellow trebant. They took a closer look. It was locked, but there was a brown briefcase sitting in the passenger's seat. They took the license plate, with Brad promising Rog he'd take it to a friend to get details on it.
+
 Need to figure out:
-adversity tokens: how to spend to help each other (advantage?)
+~~adversity tokens: how to spend to help each other (advantage?)~~ see `rules`
