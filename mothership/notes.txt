@@ -1,0 +1,69 @@
+prospectors
+ship name: centralia
+
+crew:
+- dr. berry: priest with interest in biology, sabbatical; mendel for space.
+- bonsai: android: I want to be your buddy. Skilled in linguistics, math, computers. C3PO/r2d2/toaster. Came with the ship
+- murphey: gigantic, red-headed man. Spends a lot of time by himself in mechanical engineering area. Never lost, as an adult, an arm-wrestling match.
+  - Big Woman: name of engine
+  - Live free AND die
+- Yuri:
+  - born in a colony on europa; did a stint in the marines as combat engineer, found his way out of the core (-ish). Maybe a deserter.
+  - Took up wildcatting: prospecting.
+  - Extremely long and terrible catalog of bad jokes. His idiom is bad.
+  - Loves Bonsai because Bonsai is so happy; Yuri is trying to teach Bonsai about the pain of life.
+  - Chain smoker: cigarette case with Catherine the Great on it
+  - Patch: powered by coffee
+- Sergei:
+  - orphaned on shitty planet and grew up in the streets/alleys--little rough and tumble
+  - became stowaway--didn't toss him out the airlock, but taught them their ways
+  - adopted by smugglers, can't expect smarts from him
+  - age: 13
+
+black eyes for j ess
+
+
+EP1
+- entered alexis
+  - black mirror on floor
+  - rumble, low
+  - android -- flight crew killed each other
+- got out of ship
+- saw a
+
+EP2
+- didn't learn much from derelict ship
+- still in a vast sea of derelict ships
+- once back on centralia, they noticed what looked like a colony on the moon
+  - there was a crane-like device, surrounded by wreckage and piles of debris
+- they can attempt to use their jump drive with ill effect: pg 17
+- life scans show underground dwelling
+
+Main idea: they want them to join, requiring offering themselves to the black pool.
+  Those that are returned tell of brilliant experiences and are forever faithful to
+  the cause.
+
+
+An ultimate AI lives in the 'space' between portals, using the neural structure of
+people for some purpose. It rearranges matter passed into it, spitting out things
+(and sometimes mutated things).
+  - motivation: parasitic
+    - more portals, more neurons
+
+
+
+CHARACTERS OF THE FAMILY
+Thomas: cult leader, nice, wants make family
+Kaleem: Thomas's assistant, sour
+Names: Deborah, Jeram, Nikolai, Petra
+
+- junk ship, feed parts to black pool
+- pray to black pool
+  - receive beneficence
+- send body parts to black pool
+  - receive helpers
+- send humans into black pool
+  - act of faith and potential nirvana
+  - some return telling of brilliant experiences
+  - some don't return
+
